@@ -1,0 +1,26 @@
+トークン
+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
+
+
+git add .
+現在のディレクトリのものをステージに追加
+
+git commit
+ステージのをコミット
+
+追加
+git commit -m "<メッセージ>"
+
+git commit -v 変更内容を見る
+
+
+変更内容を見る
+git log --oneline
+
+
+最初追加
+git remote add origin URL
+
+
+送信
+git push origin master
