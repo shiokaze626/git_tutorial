@@ -24,3 +24,5 @@ git remote add origin URL
 
 送信
 git push origin master
+
+aaaaaaaaaaaa
